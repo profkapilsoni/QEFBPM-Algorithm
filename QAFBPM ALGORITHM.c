@@ -1,6 +1,6 @@
 /*
 *********************************************************************************************************
-*	About: The code implements Quantum Approximate Filtering Based Pattern Matching (QAFBPM) - 2024	        *
+*	About: The code implements Quantum Approximate Filtering Based Pattern Matching (QAFBPM)	        *
 *	Usage: Run in command prompt "QAFBPM.exe <input_file>"												*
 *	1. 	<input_file> contains character subset of biological gene text sequence of SARS-CoV-2 for Human	*
 * 		File sizes {128, 256, 512} characters are intentioally prepared for feasible QuEST Simulation 	*
