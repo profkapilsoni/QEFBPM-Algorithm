@@ -1,6 +1,6 @@
 /*
 *********************************************************************************************************
-*	About: The code implements Quantum Exact Filtering Based Pattern Matching (QEFBPM)	                *
+*	About: The code implements Quantum Exact Filtering Based Pattern Matching (QEFBPM)    	                *
 *	Usage: Run in command prompt "QEFBPM.exe <input_file>"												*
 *	1. 	<input_file> contains character subset of biological gene text sequence of SARS-CoV-2 for Human	*
 * 		File sizes {128, 256, 512} characters are intentioally prepared for feasible QuEST Simulation 	*
